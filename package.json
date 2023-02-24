@@ -1,0 +1,31 @@
+{
+  "name": "google-place-autocomplete",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.10",
+    "@reach/combobox": "^0.18.0",
+    "@react-google-maps/api": "^2.18.1",
+    "@reduxjs/toolkit": "^1.9.3",
+    "material-icons": "^1.13.1",
+    "next": "13.2.0",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "use-places-autocomplete": "^4.0.0"
+  }
+}
